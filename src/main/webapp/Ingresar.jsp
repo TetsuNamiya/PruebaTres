@@ -7,7 +7,7 @@
 <meta charset="ISO-8859-1">
 <link href="CSS/Login2.css" type="text/css" rel="stylesheet" />
 <link href="CSS/PaginaDos.css" type="text/css" rel="stylesheet" />
-<title>Ingresar Usuario</title>
+<title>Ingresar Usuario hola</title>
 </head>
 <header>
 
